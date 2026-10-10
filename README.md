@@ -1,21 +1,21 @@
 [crack2.py](https://github.com/user-attachments/files/33283260/crack2.py)
 [crack1.py](https://github.com/user-attachments/files/33283259/crack1.py)
-# Password Brute Force—Cybersecurity Lab
+# Password Brute Force, Cybersecurity Lab
 
 A beginner cybersecurity project exploring the concept of password brute-force attacks using Python.
 
-##About the Project
+## About the Project
 
 This project demonstrates how a brute force approach attempts different password combinations until a match is found in a controlled testing environment.
 
-##Learning Objectives
+## Learning Objectives
 
 Understand how brute-force attacks work.
 Explore password strength and complexity.
 Learn Python programming through a cybersecurity project.
 Understand why strong passwords and account protections matter.
 
-##Technologies Used
+## Technologies Used
 
 - Python 3
 
